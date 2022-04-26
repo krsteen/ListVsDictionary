@@ -1,0 +1,15 @@
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\bin\Debug\net6.0\ListVsDictionary.exe
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\bin\Debug\net6.0\ListVsDictionary.deps.json
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\bin\Debug\net6.0\ListVsDictionary.runtimeconfig.json
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\bin\Debug\net6.0\ListVsDictionary.dll
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\bin\Debug\net6.0\ref\ListVsDictionary.dll
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\bin\Debug\net6.0\ListVsDictionary.pdb
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ListVsDictionary.csproj.AssemblyReference.cache
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ListVsDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ListVsDictionary.AssemblyInfoInputs.cache
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ListVsDictionary.AssemblyInfo.cs
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ListVsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ListVsDictionary.dll
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ref\ListVsDictionary.dll
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ListVsDictionary.pdb
+C:\Users\krst\source\repos\ListVsDictionary\ListVsDictionary\obj\Debug\net6.0\ListVsDictionary.genruntimeconfig.cache
